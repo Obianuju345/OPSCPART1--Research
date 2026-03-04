@@ -240,23 +240,4 @@ o Motivation: Increases user retention by creating a personalized
 experience and encourages repeated app usage.
 
 
-Conclusion 
-The research on Cookbook, SuperCook, and KitchenPal has given us valuable insights 
-into the strengths, weaknesses and unique features of recipe and pantry management 
-applications that exist. It became evident, by analysing these apps, what the most 
-effective recipe platforms needs. Each app offers different functionalities that cater to 
-different aspects of cooking and ingredient tracking and this helped us highlight both 
-the opportunities and gaps in the current market. 
-These findings are what will be used in the designing and development of PantryPal, to 
-ensure that the app uses the best functionalities from each platform while addressing 
-their limitations. Features such as shopping list generation, and calendar-based meal 
-planning will be incorporated. Additionally, the integration of user profiles, dietary 
-preferences, and the ability to save favourite recipes improves personalization, 
-encourages repeated engagement, and supports a more tailored cooking experience for 
-diverse users. 
-The research did not only guide the selection of key features but also helped us shape 
-the overall structure, functionality, and user interface of the app. Through combining the 
-most effective elements from these existing apps with innovative enhancements, 
-PantryPal will aim to provide an efficient, and enjoyable cooking experience that 
-empowers users to make the most of their pantry while discovering new meals and 
-maintaining a practical, organized approach to home cooking. 
+- Read the attached file for more in depth readme 
